@@ -188,6 +188,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/orhanveli/.local/share/nvim/site/pack/packer/start/typescript.nvim",
     url = "https://github.com/jose-elias-alvarez/typescript.nvim"
+  },
+  ["vim-tmux-navigator"] = {
+    loaded = true,
+    path = "/Users/orhanveli/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
+    url = "https://github.com/christoomey/vim-tmux-navigator"
   }
 }
 

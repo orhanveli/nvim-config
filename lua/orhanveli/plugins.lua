@@ -23,6 +23,8 @@ require('packer').startup(function(use)
 
   use("nvim-lua/plenary.nvim") -- lua functions that many plugins use
 
+  use("christoomey/vim-tmux-navigator") -- tmux & split window navigation
+
   -- theme
   use 'tanvirtin/monokai.nvim'
   use 'norcalli/nvim-colorizer.lua'
