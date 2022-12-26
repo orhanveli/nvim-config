@@ -19,7 +19,8 @@ ts.setup {
     "css",
     "html",
     "lua",
-    "vim"
+    "vim",
+    "markdown"
   },
   autotag = {
     enable = true,

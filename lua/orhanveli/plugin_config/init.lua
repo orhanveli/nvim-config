@@ -10,7 +10,7 @@ require("orhanveli.plugin_config.telescope")
 require("orhanveli.plugin_config.treesitter")
 require("orhanveli.plugin_config.bufferline")
 require("orhanveli.plugin_config.mason")
-
+require("orhanveli.plugin_config.markdown-preview")
 
 
 
